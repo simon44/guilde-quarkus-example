@@ -5,7 +5,6 @@ This project is used to compare springboot and quarkus. It covers commons needs 
 - **TODO** HttpClient to call an external API
 - **TODO** Secure resources access (with basic authentication)
 - Expose endpoints on a swagger-ui
-- Validation to fix
 
 # Useful links and information #
 
